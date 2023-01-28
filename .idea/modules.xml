@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Python Apps/CollegeManagement-Django/.idea/CollegeManagement-Django.iml" filepath="$USER_HOME$/Python Apps/CollegeManagement-Django/.idea/CollegeManagement-Django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FactsFood.iml" filepath="$PROJECT_DIR$/.idea/FactsFood.iml" />
+      <module fileurl="file://$USER_HOME$/Python Apps/PizzaMamaDjango/.idea/PizzaMamaDjango.iml" filepath="$USER_HOME$/Python Apps/PizzaMamaDjango/.idea/PizzaMamaDjango.iml" />
+      <module fileurl="file://$USER_HOME$/Python Apps/Projet #11 _ Scraping/.idea/Projet #11 _ Scraping.iml" filepath="$USER_HOME$/Python Apps/Projet #11 _ Scraping/.idea/Projet #11 _ Scraping.iml" />
+      <module fileurl="file://$USER_HOME$/Python Apps/applications-command-line-typer/.idea/applications-command-line-typer.iml" filepath="$USER_HOME$/Python Apps/applications-command-line-typer/.idea/applications-command-line-typer.iml" />
+      <module fileurl="file://$USER_HOME$/Python Apps/basedatascience/.idea/basedatascience.iml" filepath="$USER_HOME$/Python Apps/basedatascience/.idea/basedatascience.iml" />
+      <module fileurl="file://$USER_HOME$/Python Apps/bases-de-donnees-tinydb/.idea/bases-de-donnees-tinydb.iml" filepath="$USER_HOME$/Python Apps/bases-de-donnees-tinydb/.idea/bases-de-donnees-tinydb.iml" />
+      <module fileurl="file://$USER_HOME$/Python Apps/kivyProjet-Pizza/.idea/kivyProjet-Pizza.iml" filepath="$USER_HOME$/Python Apps/kivyProjet-Pizza/.idea/kivyProjet-Pizza.iml" />
+      <module fileurl="file://$USER_HOME$/Python Apps/le-gestionnaire-dutilisateurs-django/.idea/prj-014_le-gestionnaire-dutilisateurs-django.iml" filepath="$USER_HOME$/Python Apps/le-gestionnaire-dutilisateurs-django/.idea/prj-014_le-gestionnaire-dutilisateurs-django.iml" />
+      <module fileurl="file://$USER_HOME$/Python Apps/projectplanning/.idea/projectplanning.iml" filepath="$USER_HOME$/Python Apps/projectplanning/.idea/projectplanning.iml" />
+      <module fileurl="file://$USER_HOME$/Python Apps/tableau_de_bord/.idea/tableau_de_bord.iml" filepath="$USER_HOME$/Python Apps/tableau_de_bord/.idea/tableau_de_bord.iml" />
+    </modules>
+  </component>
+</project>
